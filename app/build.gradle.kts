@@ -29,7 +29,7 @@ android {
 
     defaultConfig {
         applicationId = "dev.dunno.emula"
-        minSdk = 35
+        minSdk = 26
         targetSdk = 36
         versionCode = 41
         versionName = "1.0.21"
